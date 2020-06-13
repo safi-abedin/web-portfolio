@@ -1,5 +1,5 @@
 body {
-    font-family: 'Metal Mania', cursive;
+    font-family: 'Roboto', sans-serif;
     margin: 0%;
 }
 
@@ -40,7 +40,17 @@ h2 {
     background-repeat: no-repeat;
 }
 
-section {
+.experience-area {
+    height: 538px;
+    padding-bottom: 120px;
+}
+
+.top-side {
+    height: 538px;
+    padding-bottom: 120px;
+}
+
+.bottom-side {
     height: 538px;
     padding-bottom: 120px;
 }
